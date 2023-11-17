@@ -1,5 +1,5 @@
 # Restaurant
-Link : https://supiimishra01.github.io/Restaurant/
+Link : [https://supiimishra01.github.io/Restaurant/](https://restaurant-website-58b159.netlify.app/)
 
 Project:
 In this project We have tried to make a look alike clone of Restaurant Website.
